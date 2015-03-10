@@ -12,8 +12,9 @@
 - Webber, Bonnie. *Discourse for Machine Translation.* 2014.
 - Hardmeier, Christian. *[Discourse in Statistical Machine Translation.](http://www.diva-portal.org/smash/get/diva2:714202/FULLTEXT01.pdf)* 2014.
 
-## RNNs on MT ##
+## Deep Learning for MT ##
 
-- Sutskever, Ilya, Oriol Vinyals, and Quoc VV Le. *[Sequence to sequence learning with neural networks.](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)* Advances in Neural Information Processing Systems. 2014.
-- Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. *[Neural machine translation by jointly learning to align and translate.](http://arxiv.org/pdf/1409.0473)* arXiv preprint arXiv:1409.0473 (2014).
-- Cho, Kyunghyun, et al. *[Learning phrase representations using rnn encoder-decoder for statistical machine translation.](http://arxiv.org/pdf/1406.1078)* arXiv preprint arXiv:1406.1078 (2014).
+- Sutskever, Ilya, Oriol Vinyals, and Quoc V Le. *[Sequence to sequence learning with neural networks.](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)* Advances in Neural Information Processing Systems. 2014.
+- Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. *[Neural machine translation by jointly learning to align and translate.](http://arxiv.org/pdf/1409.0473)* arXiv preprint arXiv:1409.0473. 2014.
+- Cho, Kyunghyun, et al. *[Learning phrase representations using rnn encoder-decoder for statistical machine translation.](http://arxiv.org/pdf/1406.1078)* arXiv preprint arXiv:1406.1078. 2014.
+- Meng, Fandong, et al. *[Encoding Source Language with Convolutional Neural Network for Machine Translation](http://arxiv-web3.library.cornell.edu/pdf/1503.01838v2.pdf)*. arXiv:1503.01838v2. 2015.

@@ -9,9 +9,11 @@
 - Meyer, Thomas, and Andrei Popescu-Belis. *[Using sense-labeled discourse connectives for statistical machine translation.](http://infoscience.epfl.ch/record/192529/files/Meyer_EACL2012-HYTRA_2012.pdf)* Proceedings of the Joint Workshop on Exploiting Synergies between Information Retrieval and Machine Translation (ESIRMT) and Hybrid Approaches to Machine Translation (HyTra). Association for Computational Linguistics, 2012.
 - Meyer, Thomas, and Bonnie Webber. *[Implicitation of discourse connectives in (machine) translation.](http://infoscience.epfl.ch/record/192528/files/Meyer_DISCOMT_2013.pdf)* Proceedings of the 1st DiscoMT Workshop at ACL 2013 (51st Annual Meeting of the Association for Computational Linguistics). No. EPFL-CONF-192528. 2013.
 - Meyer, Thomas, and Lucie Poláková. *[Machine translation with many manually labeled discourse connectives.](http://infoscience.epfl.ch/record/192526/files/Meyer_DISCOMT-2_2013.pdf)* Proceedings of the 1st DiscoMT Workshop at ACL 2013 (51st Annual Meeting of the Association for Computational Linguistics). 2013.
-- Webber, Bonnie. *Discourse for Machine Translation.* 2014.
+- Francisco Guzmán, Shafiq Joty, Lluís Màrquez, and Preslav Nakov. *[Using Discourse Structure Improves Machine Translation Evaluation](http://www.aclweb.org/anthology/P/P14/P14-1065.pdf)". ACL. 2014.
 - Li, Junyi Jessy, Marine Carpuat, and Ani Nenkova. *[Cross-lingual Discourse Relation Analysis: A corpus study and a semi-supervised classification system](http://www.aclweb.org/anthology/C14-1055)*. COLING. 2014
+- Li, Junyi Jessy, Marine Carpuat, and Ani Nenkova. *[Assessing the Discourse Factors that Influence the Quality of Machine Translation](http://www.seas.upenn.edu/~ljunyi/papers/discourse_mt.pdf)*. ACL. 2014.
 - Hardmeier, Christian. *[Discourse in Statistical Machine Translation.](http://www.diva-portal.org/smash/get/diva2:714202/FULLTEXT01.pdf)* 2014.
+- Webber, Bonnie. *Discourse for Machine Translation.* 2014.
 
 ## Neural Networks for MT ##
 

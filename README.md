@@ -1,6 +1,6 @@
 # DiscoMT #
 
-## Discourse for MT ##
+## Discourse and MT ##
 
 - Mitkov, Ruslan. *[How could rhetorical relations be used in machine translation?(And at least two open questions)](http://www.aclweb.org/anthology/W93-0223.pdf)*. Proceedings of the ACL Workshop on Intentionality and Structure in Discourse Relations. 1993.
 - Marcu, Daniel, Lynn Carlson, and Maki Watanabe. *[The automatic translation of discourse structures.](http://ucrel.lancs.ac.uk/acl/A/A00/A00-2002.pdf)* Proceedings of the 1st North American chapter of the Association for Computational Linguistics conference. Association for Computational Linguistics, 2000.
@@ -27,3 +27,12 @@
 - Cho, Kyunghyun, et al. *[Learning phrase representations using RNN encoder-decoder for statistical machine translation.](http://arxiv.org/pdf/1406.1078)*. arXiv:1406.1078. 2014.
 - Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. *[Neural machine translation by jointly learning to align and translate.](http://arxiv.org/pdf/1409.0473)* arXiv preprint arXiv:1409.0473. 2014.
 - Meng, Fandong, et al. *[Encoding source language with Convolutional Neural Network for machine translation](http://arxiv-web3.library.cornell.edu/pdf/1503.01838v2.pdf)*. arXiv:1503.01838v2. 2015.
+
+## Coherence and Entity Grid ##
+
+- Grosz, Barbara J., Scott Weinstein, and Aravind K. Joshi. *[Centering: A framework for modeling the local coherence of discourse.](http://dl.acm.org/citation.cfm?id=211198)* Computational linguistics 21.2 (1995): 203-225.
+- Lapata, Mirella, and Regina Barzilay. *[Automatic evaluation of text coherence: Models and representations.](http://ijcai.org/Past%20Proceedings/IJCAI-05/PDF/0505.pdf)* IJCAI. 2005.
+- Elsner, Micha, Joseph L. Austerweil, and Eugene Charniak. *[A Unified Local and Global Model for Discourse Coherence.](http://www.aclweb.org/website/old_anthology/N/N07/N07-1055.pdf)* HLT-NAACL. 2007.
+- Elsner, Micha, and Eugene Charniak. *[Coreference-inspired coherence modeling.](http://www.aclweb.org/anthology/P08-2011)* ACL. 2008.
+- Barzilay, Regina, and Mirella Lapata. *[Modeling local coherence: An entity-based approach.](http://www.research.ed.ac.uk/portal/files/7703202/J08_1001.pdf)* Computational Linguistics 34.1 (2008): 1-34.
+- Eisner, Micha, and Eugene Charniak. *[Extending the entity grid with entity-specific features.](http://aclweb.org/anthology/P/P11/P11-2022.pdf)* ACL. 2011.

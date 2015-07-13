@@ -31,6 +31,7 @@
 ## Coherence and Entity Grid ##
 
 - Grosz, Barbara J., Scott Weinstein, and Aravind K. Joshi. *[Centering: A framework for modeling the local coherence of discourse.](http://dl.acm.org/citation.cfm?id=211198)* Computational linguistics 21.2 (1995): 203-225.
+- Barzilay, Regina, and Lillian Lee. *[Catching the drift: Probabilistic content models, with applications to generation and summarization.](http://arxiv.org/pdf/cs/0405039.pdf)* HLT-NAACL. 2004
 - Lapata, Mirella, and Regina Barzilay. *[Automatic evaluation of text coherence: Models and representations.](http://ijcai.org/Past%20Proceedings/IJCAI-05/PDF/0505.pdf)* IJCAI. 2005.
 - Elsner, Micha, Joseph L. Austerweil, and Eugene Charniak. *[A Unified Local and Global Model for Discourse Coherence.](http://www.aclweb.org/website/old_anthology/N/N07/N07-1055.pdf)* HLT-NAACL. 2007.
 - Elsner, Micha, and Eugene Charniak. *[Coreference-inspired coherence modeling.](http://www.aclweb.org/anthology/P08-2011)* ACL. 2008.
